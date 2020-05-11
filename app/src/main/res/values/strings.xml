@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VINspector</string>
+    <string name="nav_drawer_open" />
+    <string name="nav_drawer_close" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="here">Here (Mind Capital Letters)</string>
+    <string name="ok">OK</string>
+    <string name="enter_your_vin">Enter your VIN</string>
+    <string name="check">check</string>
+    <string name="type_vin">Type vin</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="is_this_your_vin">Is this your VIN ?</string>
+</resources>

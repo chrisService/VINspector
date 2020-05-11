@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074099385572",
+    "firebase_url": "https://vinspector-87e42.firebaseio.com",
+    "project_id": "vinspector-87e42",
+    "storage_bucket": "vinspector-87e42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074099385572:android:642d9ca2a2df6ab4c2e8f1",
+        "android_client_info": {
+          "package_name": "com.example.vinspector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074099385572-6001ct83q2tqc71e2c5j3gal9qpqqi2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinspector",
+            "certificate_hash": "0cc5d12770c1a2cd0585646acf0eb4cc17479b3b"
+          }
+        },
+        {
+          "client_id": "1074099385572-be4rtj93o26ncc6jb9vslqp64q9le8av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXcbq6Gl89RSK5HRLlqX03XOj8MOZe2R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074099385572-be4rtj93o26ncc6jb9vslqp64q9le8av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
